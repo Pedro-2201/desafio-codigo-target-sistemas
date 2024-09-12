@@ -1,6 +1,6 @@
 # Desafio de código para a empresa Target Sistemas
 
-Este projeto contém em código a resolução das questões de 1 a 3 do desáfio, as demais questões serão respondidas ao longo do README.
+Este projeto contém em código a resolução das questões de 1 a 3 do desafio, as demais questões serão respondidas ao longo do README.
 
 ## Código
 
