@@ -1,6 +1,7 @@
 package com.pedro.desafio;
 
 public class resolucoes {
+    //Código questão 01
     public static void verificaNumeroFibonacci(int n) {
         int atual = 0;
         int anterior = 1;
@@ -19,6 +20,7 @@ public class resolucoes {
         System.out.println("O número " + n + " não pertece a sequência fibonacci");
     }
 
+    //Código questão 02
     public static void verificaLetraString(char c, String texto) {
         int quantidadeLetra = 0;
 
@@ -36,6 +38,7 @@ public class resolucoes {
                 + quantidadeLetra + " letra(s) " + c + ".");
     }
 
+    //Código questão 03
     public static void soma(){
         int i = 12;
         int soma = 0;
